@@ -1,4 +1,4 @@
-**Study Instructions:** 
+# Study Instructions: 
 
 Welcome, and thank you for participating in this pilot study! Below, you will find important information and instructions to guide you through the study process. Please read carefully before beginning. 
 
@@ -56,7 +56,7 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 **How to install Code Monitoring:** 
 
 1. Install .vsix file from this repo
-1. Follow the instructions below to setup the code monitoring tool. 
+1. Follow the instructions above to setup the code monitoring tool. 
 
 **NOTE:** A JSON file with the CGT tool usage history will automatically be added to the file folder you are in, in the VS Code directory. 
 
@@ -77,7 +77,7 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 
 ***Step 1: Visit the Codeium Website***
 
-1. Go to the official Codeium website: **h[ttps://codeium.com**. ](https://codeium.com/)**
+1. Go to the official Codeium website: **[https://codeium.com**.](https://codeium.com/)**
 1. Select **Download.** 
 1. Select **VS Code Extension** followed by **Quick Install**. 
 1. Register with your email account (google account is easiest) by following the instructions. 
@@ -104,20 +104,19 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 
 3. **Quick Explain** – Highlight code and right click to open the task manager. Select “Codeium: Explain Selected Code Block” to open a chat in your IDE to explain the related code. In this chat box you can ask related questions to your project or tasks. 
 
-Step 1:  ![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.006.jpeg)Step 2:  
+Step 1:  ![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.006.jpeg)
 
-![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.007.jpeg)
+Step 2:  ![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.007.jpeg)
 
 **Next Steps:** 
 
 1. You will be told in what order to complete your tasks, and which to use the Codeium tool with and without (internet only).  
-1. Before beginning, have the researcher confirm everything is set up accordingly before you begin.  
-1. Begin with the first task you’ve been assigned. Detailed task instructions are in the Task folder of the rep. 
-1. Complete the survey after finishing your first task. 
-1. Proceed to the second task you’ve been assigned and complete the associated survey afterwards. 
-1. Submit your results (task folder, zipped) through by uploading them to the Github repo under your participant number folder in participant trials.
-1. Upload your recording to the following cloud folder with your participant number, task number, and with or without CGT in the title, for example:
-
-a.  **P1\_T2\_Without.mp4** = Participant 1, Task 2, without CGT usage recording 
+2. Before beginning, have the researcher confirm everything is set up accordingly before you begin.  
+3. Begin with the first task you’ve been assigned. Detailed task instructions are in the Task folder of the rep. 
+4. Complete the survey after finishing your first task. 
+5. Proceed to the second task you’ve been assigned and complete the associated survey afterwards. 
+6. Submit your results (task folder, zipped) through by uploading them to the Github repo under your participant number folder in participant trials.
+7. Upload your recording to the following cloud folder with your participant number, task number, and with or without CGT in the title, for example:
+  a.  **P1\_T2\_Without.mp4** = Participant 1, Task 2, without CGT usage recording 
 
 Thank you for your participation and valuable contribution to our research! If you have any questions, feel free to reach out before starting the study.
