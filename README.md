@@ -34,9 +34,8 @@ After each task, you will complete a survey that assesses your experience, inclu
 2. **Work Independently:** Complete the tasks without external assistance. If you encounter any issues, please document them as part of your feedback.
 2. **Complete the Surveys:** After each task, fill out the survey honestly and thoroughly. Your responses are critical to the success of this research.
 - Task Survey **without CGT** usage: [https://ubc.ca1.qualtrics.com/jfe/form/SV_2csDn7uOoh1WiW2 ](https://ubc.ca1.qualtrics.com/jfe/form/SV_2csDn7uOoh1WiW2)
-- Task Survey **with only CGT** usage: 
-
-  [https://ubc.ca1.qualtrics.com/jfe/form/SV_3lTKBofVAVOTlm6 ](https://ubc.ca1.qualtrics.com/jfe/form/SV_3lTKBofVAVOTlm6)
+- Task Survey **with only CGT** usage: [https://ubc.ca1.qualtrics.com/jfe/form/SV_3lTKBofVAVOTlm6 ](https://ubc.ca1.qualtrics.com/jfe/form/SV_3lTKBofVAVOTlm6)
+- Post Study Survey after completion of both tasks: [https://ubc.ca1.qualtrics.com/jfe/form/SV_032dOCjJex5L1UG](https://ubc.ca1.qualtrics.com/jfe/form/SV_032dOCjJex5L1UG)
 
 ## Technical Support: 
 
@@ -118,7 +117,7 @@ Step 2:  ![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.007.jpeg)
 4. Complete the survey after finishing your first task. 
 5. Proceed to the second task you’ve been assigned and complete the associated survey afterwards. 
 6. Submit your results (task folder, zipped) through by uploading them to the Github repo under your participant number folder in participant trials.
-7. Upload your recording to the following cloud folder with your participant number, task number, and with or without CGT in the title, for example:
+7. Upload your recording to the following cloud folder ([https://ubcca-my.sharepoint.com/:f:/g/personal/manaals_student_ubc_ca/EgJ92fKbuj5ItSM4o6qT-a4BV07sACwmwMLFzPuRdNqZrA?e=JdgPq8](OneDrive URL link) with your participant number, task number, and with or without CGT in the title, for example:
   a.  **P1\_T2\_Without.mp4** = Participant 1, Task 2, without CGT usage recording 
 
 Thank you for your participation and valuable contribution to our research! If you have any questions, feel free to reach out before starting the study.
