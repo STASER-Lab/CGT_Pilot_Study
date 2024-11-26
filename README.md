@@ -2,11 +2,11 @@
 
 Welcome, and thank you for participating in this pilot study! Below, you will find important information and instructions to guide you through the study process. Please read carefully before beginning. 
 
-` `**Purpose of the Study:** 
+## Purpose of the Study: 
 
 This study aims to investigate the differences in how programming tasks are completed using Code Generation Tools (CGTs) versus traditional internet-based resources with respect to gender. We will examine how these methods influence your cognitive load and task performance while considering individual factors. 
 
-**Overview of the Study:** 
+## Overview of the Study: 
 
 You will be asked to complete two programming tasks:
 
@@ -15,19 +15,19 @@ You will be asked to complete two programming tasks:
 
 After each task, you will complete a survey that assesses your experience, including cognitive load and other factors. The tasks are designed to be completed in approximately 1 hour, however there is no time limit for the participant to complete the tasks. 
 
-` `**Confidentiality and Consent:** 
+## Confidentiality and Consent:
 
 - All data collected during this study will remain confidential.
 - Participation is voluntary, and you may withdraw at any time without penalty.
 - By proceeding, you consent to participate in this pilot study. 
 
-**What You Need:** 
+## What You Need: 
 
 1. A computer or laptop with internet access.
 1. Access to the provided CGT (details will be shared below). 
 1. Access to VS Code 
 
-**General Guidelines:** 
+## General Guidelines: 
 
 1. **Follow Task Instructions:** You will receive specific instructions for each task. Please adhere to these instructions and complete the tasks to the best of your ability.
 2. **Use the Assigned Resources:** For one task, you must rely solely on the CGT, and for the other, you can use only traditional internet resources. Please do not mix the two.
@@ -38,11 +38,11 @@ After each task, you will complete a survey that assesses your experience, inclu
 
   [https://ubc.ca1.qualtrics.com/jfe/form/SV_3lTKBofVAVOTlm6 ](https://ubc.ca1.qualtrics.com/jfe/form/SV_3lTKBofVAVOTlm6)
 
-**Technical Support:** 
+## Technical Support: 
 
 If you experience technical difficulties with the CGT or any aspect of the study, please let us know immediately so that we can assist. 
 
-**Screen Recording:** 
+## Screen Recording: 
 
 Participants will record their screen as an added precaution in case of tool failures. Screen recordings will be taken **separately for each task**. You do not need to record your completions of surveys, only the individual tasks.
 
@@ -51,16 +51,18 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 - Mac users: Can use built in recording if you have adequate storage space [https://support.apple.com/en-ca/102618 ](https://support.apple.com/en-ca/102618)
 - Windows users: Please use a zoom meeting link to share and record your interactions (Note there is a 40min recording timer so multiple recordings may be needed for a single task). 
 
-![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.001.jpeg)
 
-**How to install Code Monitoring:** 
+
+## How to install Code Monitoring: 
 
 1. Install .vsix file from this repo
-1. Follow the instructions above to setup the code monitoring tool. 
+2. Follow the instructions below to setup the code monitoring tool.
+**NOTE:** A JSON file with the CGT tool usage history will automatically be added to the file folder you are in, in the VS Code directory.
 
-**NOTE:** A JSON file with the CGT tool usage history will automatically be added to the file folder you are in, in the VS Code directory. 
+![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.001.jpeg)
 
-**Turning off VS Code built in IntelliSense (code complete):**
+
+## Turning off VS Code built in IntelliSense (code complete):
 
 1. Mac: CMD + Shift + P, Windows: CTRL + Shift + P 
 1. In the search box enter “Settings.Json” and select the user settings file 
@@ -73,7 +75,7 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 
 4. Restart VS Code 
 
-**How to Install Codeium and Use it:** 
+## How to Install Codeium and Use it: 
 
 ***Step 1: Visit the Codeium Website***
 
@@ -90,7 +92,7 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 1. Begin typing, and Codeium should display autocompletion suggestions.
 1. If you experience issues, check the troubleshooting section on the Codeium website. 
 
-` `***Step 3: Codeium Features*** 
+***Step 3: Codeium Features*** 
 
 1. **Autocomplete** – is based on user code, code comments, and docstrings, press tab to accept code suggestions.
 1. **Quick Refactor** - Codeium will prompt you with a dropdown of selectable, pre - populated instructions that you can choose from. You can also write your own.
@@ -108,7 +110,7 @@ Step 1:  ![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.006.jpeg)
 
 Step 2:  ![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.007.jpeg)
 
-**Next Steps:** 
+## Next Steps: 
 
 1. You will be told in what order to complete your tasks, and which to use the Codeium tool with and without (internet only).  
 2. Before beginning, have the researcher confirm everything is set up accordingly before you begin.  
