@@ -51,7 +51,7 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 - Mac users: Can use built in recording if you have adequate storage space [https://support.apple.com/en-ca/102618 ](https://support.apple.com/en-ca/102618)
 - Windows users: Please use a zoom meeting link to share and record your interactions (Note there is a 40min recording timer so multiple recordings may be needed for a single task). 
 
-![](Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.001.jpeg)
+![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.001.jpeg)
 
 **How to install Code Monitoring:** 
 
@@ -65,11 +65,11 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 1. Mac: CMD + Shift + P, Windows: CTRL + Shift + P 
 1. In the search box enter “Settings.Json” and select the user settings file 
 
-   ![](Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.002.png)
+   ![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.002.png)
 
 3. Add the following code to the file: 
 
-   ![](Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.003.png)
+   ![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.003.png)
 
 4. Restart VS Code 
 
@@ -96,17 +96,17 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 1. **Quick Refactor** - Codeium will prompt you with a dropdown of selectable, pre - populated instructions that you can choose from. You can also write your own.
 1. Quick Explain and Quick refactor is available above each method as seen below: 
 
-![](Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.004.jpeg)
+![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.004.jpeg)
 
 2. When Quick factor is selected, the following options become available to the user. Use the ESC key to exit the refactor menu: 
 
-![](Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.005.jpeg)
+![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.005.jpeg)
 
 3. **Quick Explain** – Highlight code and right click to open the task manager. Select “Codeium: Explain Selected Code Block” to open a chat in your IDE to explain the related code. In this chat box you can ask related questions to your project or tasks. 
 
-Step 1:  ![](Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.006.jpeg)Step 2:  
+Step 1:  ![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.006.jpeg)Step 2:  
 
-![](Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.007.jpeg)
+![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.007.jpeg)
 
 **Next Steps:** 
 
