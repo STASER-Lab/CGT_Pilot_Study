@@ -55,7 +55,7 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 
 **How to install Code Monitoring:** 
 
-1. Install .vsix file from the  study repo (ADD REPO LINK HERE) 
+1. Install .vsix file from this repo
 1. Follow the instructions below to setup the code monitoring tool. 
 
 **NOTE:** A JSON file with the CGT tool usage history will automatically be added to the file folder you are in, in the VS Code directory. 
