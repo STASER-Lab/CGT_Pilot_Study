@@ -116,7 +116,7 @@ Step 2:  ![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.007.jpeg)
 3. Begin with the first task you’ve been assigned. Detailed task instructions are in the Task folder of the rep. 
 4. Complete the survey after finishing your first task. 
 5. Proceed to the second task you’ve been assigned and complete the associated survey afterwards. 
-6. Submit your results (task folder, zipped) through by uploading them to the Github repo under your participant number folder in participant trials.
+6. Submit your results (task folder with code, all UsersWatcher Json files, Windsurf chat logs as pdf export, recordings) by uploading them to the cloud folder.
 7. Upload your recording to the following cloud folder [https://ubcca-my.sharepoint.com/:f:/g/personal/manaals_student_ubc_ca/EgJ92fKbuj5ItSM4o6qT-a4BV07sACwmwMLFzPuRdNqZrA?e=JdgPq8](OneDrive URL link) with your participant number, task number, and with or without CGT in the title, for example:
   a.  **P1\_T2\_Without.mp4** = Participant 1, Task 2, without CGT usage recording 
 
