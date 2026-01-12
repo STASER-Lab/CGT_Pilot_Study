@@ -54,9 +54,9 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 
 ## How to install Code Monitoring: 
 
-1. Install .vsix file from this repo
+1. Install .vsix file from this repo. [**If using a Windows device, download watcher-0.0.3.vsix, if using a MAC, use watcher-0.0.2.vsix**]
 2. Follow the instructions below to setup the code monitoring tool.
-**NOTE:** A JSON file with the CGT tool usage history will automatically be added to the file folder you are in, in the VS Code directory.
+**NOTE:** A JSON file with the CGT tool usage history will automatically be added to the your home route called UsersWatcher.
 
 ![](Images/Aspose.Words.48a63ccf-6c3c-42ba-8b3c-5681de197d8b.001.jpeg)
 
@@ -76,14 +76,15 @@ Please ensure you have adequate storage (~ 1GB) if screen recording directly fro
 
 ## How to Install Codeium and Use it: 
 
-***Step 1: Visit the Codeium Website***
+***Step 1: Visit the Codeium [now Windsurf] Website***
 
 1. Go to the official Codeium website: **[https://codeium.com**.](https://codeium.com/)**
 1. Select **Download.** 
 1. Select **VS Code Extension** followed by **Quick Install**. 
 1. Register with your email account (google account is easiest) by following the instructions. 
 1. Verify your email to activate your account if you are not using a google account. 
-1. Follow all remaining prompts from the download to complete download
+1. Follow all remaining prompts from the download to complete download.
+2. Ensure that Windsurf is installed in the extensions tab of VSCode. 
 
 ***Step 2: Verify Installation*** 
 
