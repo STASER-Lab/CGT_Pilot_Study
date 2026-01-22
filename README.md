@@ -33,7 +33,7 @@ After each task, you will complete a survey that assesses your experience, inclu
 2. **Use the Assigned Resources:** For one task, you must rely solely on the CGT, and for the other, you can use only traditional internet resources. Please do not mix the two.
 2. **Work Independently:** Complete the tasks without external assistance. If you encounter any issues, please document them as part of your feedback.
 2. **Complete the Surveys:** After each task, fill out the survey honestly and thoroughly. Your responses are critical to the success of this research.
-- Task Survey **without CGT** usage: [https://ubc.ca1.qualtrics.com/jfe/form/SV_2csDn7uOoh1WiW2 ](https://ubc.ca1.qualtrics.com/jfe/form/SV_2csDn7uOoh1WiW2)
+- Task Survey **with INTERNET** usage: [https://ubc.ca1.qualtrics.com/jfe/form/SV_d5a9AjQcirpvqhU)](https://ubc.ca1.qualtrics.com/jfe/form/SV_d5a9AjQcirpvqhU)
 - Task Survey **with only CGT** usage: [https://ubc.ca1.qualtrics.com/jfe/form/SV_3lTKBofVAVOTlm6 ](https://ubc.ca1.qualtrics.com/jfe/form/SV_3lTKBofVAVOTlm6)
 - Post Study Survey after completion of both tasks: [https://ubc.ca1.qualtrics.com/jfe/form/SV_032dOCjJex5L1UG](https://ubc.ca1.qualtrics.com/jfe/form/SV_032dOCjJex5L1UG)
 
